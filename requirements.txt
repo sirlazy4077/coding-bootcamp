@@ -1,0 +1,15 @@
+# Imports used in the notebooks (kitchen_coding_notebook.ipynb):
+#   import math
+#   import random
+#   import datetime
+#   from datetime import date
+#
+# All of the above are part of the Python standard library — they ship with
+# Python itself and do not need to be installed via pip. This file is
+# intentionally empty of pip packages.
+
+# below are real imports, but they are not used in the notebooks (yet)
+
+import numpy
+import matplotlib
+import pydicom
