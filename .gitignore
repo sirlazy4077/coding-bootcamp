@@ -1,3 +1,5 @@
 /2025/
 settings.local.json
 .vscode/
+/.venv
+*.pdf
